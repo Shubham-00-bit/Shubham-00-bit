@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="www.linkedin.com/in/shubhamahirrao">Shubham</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://linkedin.com/in/shubhamahirrao">Shubham</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 B.Tech Information Technology 」— 「 ☁️ <b>AWS Certified Solutions Architect – Associate</b> 」<br>
@@ -29,6 +29,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    Connect: <a href="www.linkedin.com/in/shubhamahirrao">LinkedIn</a> · <a href="https://x.com/Shubham88516237">X</a>
+    Connect: <a href="https://linkedin.com/in/shubhamahirrao">LinkedIn</a> · <a href="https://x.com/Shubham88516237">X</a>
   </p>
 </samp>
