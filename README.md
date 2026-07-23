@@ -1,25 +1,33 @@
-### `Hello! I am Shubham`
+<h1 align="left">Hello! I am Shubham 👋</h1>
 
-`「 Cloud Engineer 🔧 AWS Certified Solutions Architect – Associate 」`
+<p>
+  <code>Cloud Engineer</code> · <code>AWS Certified Solutions Architect – Associate</code>
+</p>
 
-**`☰ Details`**
+<details>
+<summary>📋 Details</summary>
+<br>
 
-[![Code](https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&q=aws)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&q=docker)
-[![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&q=terraform)
-[![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&language=python)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&q=flask)
-[![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://github.com/Shubham-00-bit?tab=repositories&q=solidity)
+- 🎓 B.Tech in Information Technology — MET's Institute of Engineering, Nashik (SPPU, 2026)
+- ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🔭 Currently building **[ExamShield](https://github.com/Shubham-00-bit/ExamShield-Cloud_Based)** — a cloud-native exam proctoring platform
+- 🌱 Sharpening: Terraform, Docker, CI/CD pipelines on AWS
+- 🎯 Looking for: Cloud Engineer / Junior DevOps roles (Pune / Mumbai)
+- 💬 Ask me about: AWS, Docker, Python, Terraform
+- 📄 Résumé: [link here]
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/byteshubham)
 
-[![](https://github-readme-stats.vercel.app/api?username=Shubham-00-bit&show_icons=true&hide_border=true&title_color=5391FE&icon_color=000000&text_color=555)](https://github.com/Shubham-00-bit)
+</details>
 
-Check out my [Resumé](https://github.com/Shubham-00-bit/Resume/blob/master/Shubham-Cloud-Devops.pdf)
+<br>
 
-[![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)](https://github.com/Shubham-00-bit?tab=followers)
-[![Shubham-00-bit](https://badges.pufler.dev/visits/Shubham-00-bit/Shubham-00-bit?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)](https://github.com/Shubham-00-bit)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Shubham-00-bit/Shubham-00-bit?label=profile%20updated&style=flat-square)](https://github.com/Shubham-00-bit)
+`AWS` `Docker` `Terraform` `Python` `Flask` `Solidity`
 
-`════ ⋆★⋆ ════`
+<br>
 
-`From `[`Shubham-00-bit`](https://github.com/Shubham-00-bit/Shubham-00-bit)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-00-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-00-bit&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<sub>From <a href="https://github.com/Shubham-00-bit">Shubham-00-bit</a></sub>
