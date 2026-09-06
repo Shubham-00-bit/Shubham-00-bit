@@ -18,7 +18,7 @@
       <a href="https://github.com/Shubham-00-bit?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
     Check out my flagship project: <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Shubham-00-bit/Examshield-Cloud_Based">ExamShield</a> — cloud-native exam proctoring platform (🏆 1st place, MET Enthusia 2026)<br>
-    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Shubham-00-bit/Resume/blob/master/Shubham-Cloud-Devops.pdf">Resumé</a><br>
+    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Shubham-00-bit/Resume/blob/master/Shubham_Ahirrao_Cloud_Devops.pdf">Resumé</a><br>
      <a href="https://github.com/Shubham-00-bit?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
      <a href="https://github.com/Shubham-00-bit" target="_blank"><img alt="Shubham-00-bit" src="https://badges.pufler.dev/visits/Shubham-00-bit/Shubham-00-bit?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
      <a href="https://github.com/Shubham-00-bit/aws-devops-portfolio" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shubham-00-bit/aws-devops-portfolio?label=portfolio%20updated&style=flat-square"></a>
